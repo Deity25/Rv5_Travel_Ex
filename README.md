@@ -4,4 +4,4 @@ For now Bad gateway Error code 502
 Visit cloudflare.com for more information.
 2026-09-28 17:10:40 UTC
 
-Site is not working due to the Emergent 
+Site is not working due to the Emergent
